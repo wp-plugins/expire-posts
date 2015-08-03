@@ -18,8 +18,7 @@ After installation go to Expire posts section in your Dashboard. It's expected
 that you already have created your custom post type or not (if you'll be using
 posts or pages for expiration).
 
-Choose:
-
+####Choose:
 - desired post type
 - expiration checking frequency (plugin utilizes wp-cron)
 - and expiration time (for ex. 2 weeks, 5 days, 1 month, 2 years - must be provided in English)
