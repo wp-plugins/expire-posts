@@ -3,7 +3,7 @@
 * Plugin Name: Expire posts
 * Plugin URI: https://wordpress.org/plugins/expire-posts/
 * Description: Automatic post expirator for WordPress (with custom-post-type support)
-* Version: 1.0.2
+* Version: 1.0.3
 * Author: Marcin Karpezo
 * Author URI: http://sirmacik.net
 * License: MIT License
