@@ -4,7 +4,7 @@ Donate link:
 Tags: post, custom post type, expire, expirator
 Requires at least: 3.0.1
 Tested up to: 4.2.3
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: MIT
 License URI: http://mit-license.org/
 
@@ -12,16 +12,16 @@ Automatic post expirator for WordPress (with custom-post-type support)
 
 == Description ==
 
-##How to:
-
+## How to:
 After installation go to Expire posts section in your Dashboard. It's expected
 that you already have created your custom post type or not (if you'll be using
 posts or pages for expiration).
 
-####Choose:
+Choose:
 - desired post type
 - expiration checking frequency (plugin utilizes wp-cron)
-- and expiration time (for ex. 2 weeks, 5 days, 1 month, 2 years - must be provided in English)
+- and expiration time (for ex. 2 weeks, 5 days, 1 month, 2 years - must be
+  provided in English)
 - enable post expiration and save options, you're good to go!
 
 ## Use case:
@@ -54,6 +54,9 @@ No questions yet.
 1. Plugin settings interface
 
 == Changelog ==
+
+= 1.0.3 =
+* Possible fix for installation error, due to previous plugin upload glitch. 
 
 = 1.0.2 =
 * readme.txt improvements
